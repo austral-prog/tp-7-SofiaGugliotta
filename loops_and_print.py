@@ -1,4 +1,4 @@
-ef enumerate_list(list):
+def enumerate_list(list):
     new_list = []
     i = 0
     for current_element in list:
